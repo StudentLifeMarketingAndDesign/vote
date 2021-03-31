@@ -5,7 +5,7 @@
     "require": {
         "php": ">=5.6.0",
         "md/division-project": "3.*",
-	"md/silverstripe-wxr-export" : "dev-main",
+	"md/silverstripe-migration-tools" : "dev-main",
         "silverstripe/mathspamprotection": "dev-master"
     },
     "require-dev": {
@@ -73,7 +73,7 @@
         },
         "7": {
             "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export"
+            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-migration-tools"
         }
     },
     "config": {
